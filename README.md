@@ -37,5 +37,5 @@
 * # Day 12
   * Text Typing Animation
 
-  * # Day 13
+* # Day 13
   * Facebook Login Page

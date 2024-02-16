@@ -1,5 +1,5 @@
 # 30-Days-of-Frontend
-# Project Count 11
+# Project Count 13
 
 * # Day 1
   * Responsive Profile Card
@@ -34,3 +34,8 @@
 * # Day 11
   * Valentine Day Animation
 
+* # Day 12
+  * Text Typing Animation
+
+  * # Day 13
+  * Facebook Login Page

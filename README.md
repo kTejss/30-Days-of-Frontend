@@ -2,19 +2,24 @@
 # Project Count 15
 
 * # Day 1
-  * Responsive Profile Card: https://codepen.io/kTejss/pen/RwddZBd
+  * Responsive Profile Card: 
+    <a href="https://codepen.io/kTejss/pen/RwddZBd" target="_blank">Live Demo</a>
 
 * # Day 2
-  * Login & Registration Form: https://codepen.io/kTejss/pen/vYPPJzb
+  * Login & Registration Form:
+     <a href="https://codepen.io/kTejss/pen/vYPPJzb" target="_blank">Live Demo</a>
 
 * # Day 3
-  * Analog Clock: https://codepen.io/kTejss/pen/gOEExZV
+  * Analog Clock: 
+     <a href="https://codepen.io/kTejss/pen/gOEExZV" target="_blank">Live Demo</a>
     
 * # Day 4
-  * Music Loading Animation: https://codepen.io/kTejss/pen/zYbbdep
+  * Music Loading Animation: 
+     <a href="https://codepen.io/kTejss/pen/zYbbdep" target="_blank">Live Demo</a>
 
 * # Day 5
-  * Flipping Card UI Design: https://codepen.io/kTejss/pen/XWGGaGV 
+  * Flipping Card UI Design: 
+     <a href="https://codepen.io/kTejss/pen/XWGGaGV" target="_blank">Live Demo</a> 
  
 * # Day 6
   * Responsive Search Bar
@@ -38,7 +43,8 @@
   * Text Typing Animation
 
 * # Day 13
-  * Facebook Login Page: https://codepen.io/kTejss/pen/oNVVeEy
+  * Facebook Login Page: 
+       <a href="https://codepen.io/kTejss/pen/oNVVeEy" target="_blank">Live Demo</a>
 
 * # Day 14
   * Netflix Login Page

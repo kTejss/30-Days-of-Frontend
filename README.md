@@ -38,7 +38,7 @@
   * Text Typing Animation
 
 * # Day 13
-  * Facebook Login Page
+  * Facebook Login Page: https://codepen.io/kTejss/pen/oNVVeEy
 
 * # Day 14
   * Netflix Login Page

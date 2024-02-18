@@ -2,19 +2,19 @@
 # Project Count 15
 
 * # Day 1
-  * Responsive Profile Card
+  * Responsive Profile Card: https://codepen.io/kTejss/pen/RwddZBd
 
 * # Day 2
-  * Login & Registration Form
+  * Login & Registration Form: https://codepen.io/kTejss/pen/vYPPJzb
 
 * # Day 3
-  * Analog Clock
+  * Analog Clock: https://codepen.io/kTejss/pen/gOEExZV
     
 * # Day 4
-  * Music Loading Animation
+  * Music Loading Animation: https://codepen.io/kTejss/pen/zYbbdep
 
 * # Day 5
-  * Flipping Card UI Design
+  * Flipping Card UI Design: https://codepen.io/kTejss/pen/XWGGaGV 
  
 * # Day 6
   * Responsive Search Bar

@@ -23,24 +23,31 @@
  
 * # Day 6
   * Responsive Search Bar
+    <a href="https://codepen.io/kTejss/pen/PoLLabP" target="_blank">Live Demo</a>
 
 * # Day 7
   * Glassmorphism Website Design
+   <a href="https://codepen.io/kTejss/pen/poYYKRW" target="_blank">Live Demo</a>
 
 * # Day 8
   * Automatic Image Slider
+    <a href="https://codepen.io/kTejss/pen/YzggvaP" target="_blank">Live Demo</a>
 
 * # Day 9
   * Animated Product Card
+    <a href="https://codepen.io/kTejss/pen/oNVVydK" target="_blank">Live Demo</a>
 
 * # Day 10
   * Z-Index Transition on Image
+    <a href="https://codepen.io/kTejss/pen/GReeBKr" target="_blank">Live Demo</a>
  
 * # Day 11
   * Valentine Day Animation
+     <a href="" target="_blank">Live Demo</a>
 
 * # Day 12
   * Text Typing Animation
+     <a href="" target="_blank">Live Demo</a>
 
 * # Day 13
   * Facebook Login Page: 
@@ -48,6 +55,8 @@
 
 * # Day 14
   * Netflix Login Page
+     <a href="" target="_blank">Live Demo</a>
 
 * # Day 15
   * Facebook Wow Emogi Animation
+     <a href="" target="_blank">Live Demo</a>

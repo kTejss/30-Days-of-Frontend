@@ -1,5 +1,5 @@
 # 30-Days-of-Frontend :
-# Project Count 17
+# Project Count 18
 
 * # Day 1
   * Responsive Profile Card: 
@@ -68,3 +68,13 @@
 * # Day 17
    * Animated Drop-Down Menu Bar:
      <a href="https://codepen.io/kTejss/pen/BabEJjq" target="_blank">Live Demo</a>
+
+* # Day 18
+   * Profile Card With Hover Animation:
+     <a href="https://codepen.io/kTejss/pen/eYXaNLV" target="_blank">Live Demo</a>
+
+* # Day 20
+   * :
+     <a href="" target="_blank">Live Demo</a>
+
+     

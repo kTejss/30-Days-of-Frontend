@@ -1,9 +1,4 @@
 # 30-Days-of-Frontend :
-<<<<<<< HEAD
-# Project Count 19
-=======
-# Project Count 18
->>>>>>> eb6a7675fc531c90ec574404f8b3362b541150d9
 # Project Count 19
 
 * # Day 1
@@ -81,5 +76,9 @@
 * # Day 19
    * Neumorphism Keyboard Design:
      <a href="https://codepen.io/kTejss/pen/qBvGYdZ" target="_blank">Live Demo</a>
+
+* # Day 20
+   * Glowing Bulb Effect:
+     <a href="https://codepen.io/kTejss/pen/ExMBPJN" target="_blank">Live Demo</a>
 
      

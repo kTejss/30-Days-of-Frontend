@@ -1,5 +1,5 @@
 # 30-Days-of-Frontend :
-# Project Count 20
+# Project Count 21
 
 * # Day 1
   * Responsive Profile Card: 
@@ -80,5 +80,10 @@
 * # Day 20
    * Glowing Bulb Effect:
      <a href="https://codepen.io/kTejss/pen/ExMBPJN" target="_blank">Live Demo</a>
+
+* # Day 21
+   * Simple Website:
+     <a href="https://codepen.io/kTejss/pen/mdoZzOG" target="_blank">Live Demo</a>
+     
 
      

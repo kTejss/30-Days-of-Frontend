@@ -1,5 +1,5 @@
 # 30-Days-of-Frontend :
-# Project Count 21
+# Project Count 22
 
 * # Day 1
   * Responsive Profile Card: 
@@ -84,6 +84,10 @@
 * # Day 21
    * Simple Website:
      <a href="https://codepen.io/kTejss/pen/mdoZzOG" target="_blank">Live Demo</a>
+
+* # Day 22
+   * Image Clip Animation:
+     <a href="https://codepen.io/kTejss/pen/wvOVwLB" target="_blank">Live Demo</a>     
      
 
      

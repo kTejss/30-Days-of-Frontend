@@ -1,5 +1,5 @@
 # 30-Days-of-Frontend :
-# Project Count 22
+# Project Count 23
 
 * # Day 1
   * Responsive Profile Card: 
@@ -87,7 +87,11 @@
 
 * # Day 22
    * Image Clip Animation:
-     <a href="https://codepen.io/kTejss/pen/wvOVwLB" target="_blank">Live Demo</a>     
+     <a href="https://codepen.io/kTejss/pen/wvOVwLB" target="_blank">Live Demo</a>
+
+* # Day 23
+   * Responsive Pricing Tables:
+     <a href="https://codepen.io/kTejss/pen/qBveKZr" target="_blank">Live Demo</a>     
      
 
      

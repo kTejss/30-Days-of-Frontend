@@ -99,7 +99,12 @@
 
 * # Day 25
    * Responsive Timeline Design:
-     <a href="https://codepen.io/kTejss/pen/XWQrBbM" target="_blank">Live Demo</a>               
+     <a href="https://codepen.io/kTejss/pen/XWQrBbM" target="_blank">Live Demo</a>
+     
+* # Day 26
+   * Responsive Registration Form:
+     <a href="https://codepen.io/kTejss/pen/JjVjbvb" target="_blank">Live Demo</a>
+     
      
 
      

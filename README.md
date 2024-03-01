@@ -104,6 +104,10 @@
 * # Day 26
    * Responsive Registration Form:
      <a href="https://codepen.io/kTejss/pen/JjVjbvb" target="_blank">Live Demo</a>
+
+* # Day 27
+   * Calculator:
+     <a href="https://codepen.io/kTejss/pen/MWRWxZp" target="_blank">Live Demo</a>    
      
      
 

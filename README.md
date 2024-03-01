@@ -1,5 +1,5 @@
 # 30-Days-of-Frontend :
-# Project Count 26
+# Project Count 27
 
 * # Day 1
   * Responsive Profile Card: 

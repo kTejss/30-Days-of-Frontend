@@ -107,7 +107,11 @@
 
 * # Day 27
    * Calculator:
-     <a href="https://codepen.io/kTejss/pen/MWRWxZp" target="_blank">Live Demo</a>    
+     <a href="https://codepen.io/kTejss/pen/MWRWxZp" target="_blank">Live Demo</a>
+
+* # Day 28
+   * Admin Dashboard Panel :
+     <a href="https://codepen.io/kTejss/pen/JjVoEvO" target="_blank">Live Demo</a>         
      
      
 
